@@ -1,6 +1,6 @@
 # Listen Surah Rahman Online – Free Audio, Video, Read & Download (Surah 55)
 
-Welcome to **Listen Surah Rahman Online** — a simple, clean place to **listen**, **watch**, **read**, and **download** Surah Ar-Rahman for FREE.  
+Welcome to **Listen Surah Rahman Online** a simple, clean place to **listen**, **watch**, **read**, and **download** Surah Ar-Rahman for FREE.  
 No ads. No limits. No signups. Just peaceful recitation and easy access.
 
 This repo supports and mirrors content from **https://surahrahmanonline.com/** and is built to help anyone — students, teachers, new Muslims, or anyone seeking calm — access Surah Rahman quickly and clearly.
@@ -28,8 +28,7 @@ Why our audio? Because it's made for focus and peace.
 - Fast streaming for slow connections  
 - Direct download links — play offline anytime
 
-👉 **Listen online:** `https://surahrahmanonline.com/listen`  
-👉 **Direct MP3 (example):** `https://github.com/your-repo/audio/surah-rahman.mp3`
+👉 **Listen online:** `https://surahrahmanonline.com/`  
 
 ---
 
@@ -42,8 +41,7 @@ Some people connect more when they *see* calm visuals.
 - No autoplay ads, no forced overlays  
 - Subtitles/transliteration optional in videos
 
-👉 **Watch online:** `https://surahrahmanonline.com/watch`  
-👉 **Video file (example):** `https://github.com/your-repo/video/surah-rahman.mp4`
+👉 **Watch online:** `https://surahrahmanonline.com/`  
 
 ---
 
@@ -56,8 +54,8 @@ Prefer reading? We got you.
 - Simple mobile-friendly layout — no popups  
 - Downloadable PDF for offline reading and print
 
-👉 **Read online:** `https://surahrahmanonline.com/read`  
-👉 **PDF (example):** `https://github.com/your-repo/pdf/surah-rahman.pdf`
+👉 **Read online:** `https://surahrahmanonline.com/`  
+👉 **PDF (download):** `[https://github.com/your-repo/pdf/surah-rahman.pd](https://surahrahmanonline.com/wp-content/uploads/pdf/surah-rahman.pdf)f`
 
 ---
 
@@ -131,24 +129,17 @@ You can embed audio on any page with this simple player:
 
 ```html
 <audio controls preload="none">
-  <source src="https://raw.githubusercontent.com/your-repo/audio/surah-rahman-hq.mp3" type="audio/mpeg">
+  <source src="https://surahrahmanonline.com/wp-content/uploads/images/surah-rahman.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 ```
 
-Video embed:
 
-```html
-<video controls preload="metadata" width="720">
-  <source src="https://raw.githubusercontent.com/your-repo/video/surah-rahman-hd.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-```
 
 PDF link:
 
 ```html
-<a href="https://raw.githubusercontent.com/your-repo/pdf/surah-rahman.pdf" download>Download Surah Rahman PDF</a>
+<a href="[https://raw.githubusercontent.com/your-repo/pdf/surah-rahman.pdf](https://surahrahmanonline.com/wp-content/uploads/pdf/surah-rahman.pdf)" download>Download Surah Rahman PDF</a>
 ```
 
 ---
